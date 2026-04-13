@@ -3,9 +3,9 @@
 This project utilizes a depth camera mounted on a TurtleBot3 robot to detect and track a person's position within a home environment. The system plans navigation paths to follow the detected person while avoiding obstacles, leveraging existing ROS2 packages.
 
 Project Team:
-Enrico Battistini
-Filippo Ugolini (filippougolini19@gmail.com / filippo.ugolini@studio.unibo.it) | GitHub: https://github.com/Ugo-Filo01
-Jacopo Subini
+- Enrico Battistini
+- Filippo Ugolini (filippougolini19@gmail.com / filippo.ugolini@studio.unibo.it) | GitHub: https://github.com/Ugo-Filo01
+- Jacopo Subini
 
 # TurtleBot3 Workspace — Localization, Detection, Following, and Simulation
 
